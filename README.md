@@ -10,7 +10,7 @@ A **Streamlit-based Chatbot** that allows you to interact with sales data using 
 ---
 
 ## 🗂️ Project Structure
-
+```
 Sales_Chat-BI_bot/
 ├── cbot/
 │   ├── app_model_context2.py         # Streamlit app entry point
@@ -29,7 +29,7 @@ Sales_Chat-BI_bot/
 ├── cbot_backup/                      # Backup of important files
 └── README.md                         # Project documentation
 
-
+```
 
 
 ---
