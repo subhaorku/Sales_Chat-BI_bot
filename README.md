@@ -91,3 +91,7 @@ streamlit run app_model_context2.py
 "What are the top 3 brands in EAST last month?"
 
 "Compare sales of COLGATE and DANO in SOUTH"
+
+### Some Results
+![image](https://github.com/user-attachments/assets/678dbf08-830b-4eb0-9524-4c90aa395689)
+
