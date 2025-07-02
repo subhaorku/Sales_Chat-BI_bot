@@ -12,27 +12,6 @@ A **Streamlit-based Chatbot** that allows you to interact with sales data using 
 ## 🗂️ Project Structure
 
 Sales_Chat-BI_bot/
-│
-├── cbot/
-│ ├── app_model_context2.py # Streamlit app entry point
-│ ├── chatbot_model_context3.py # Core LLM interface logic
-│ ├── cross_sell_model_context.py # Context logic for cross-sell suggestions
-│ ├── region_model_context.py # Regional insights
-│ ├── top_model_context.py # Top-selling brands/products
-│ ├── region_normalizer.py # Preprocessing helper
-│ ├── sales_forecaster.py # Time series forecasting logic
-│ ├── utils_helpers_model_context.py # Shared utilities
-│ ├── sales_rt.csv # 🔽 (Download separately)
-│ ├── sales_rt.parquet # 🔽 (Download separately)
-│ ├── dummy_sales_rt.parquet # (Light sample for testing)
-│ ├── metayb-logo.png # Logo used in sidebar
-│ ├── requirements.txt
-│ └── .gitignore
-│
-├── cbot_backup/ # Backup of important files
-└── README.md
-
-Sales_Chat-BI_bot/
 ├── cbot/
 │   ├── app_model_context2.py         # Streamlit app entry point
 │   ├── chatbot_model_context3.py     # Core LLM interface logic
@@ -49,6 +28,7 @@ Sales_Chat-BI_bot/
 │   └── requirements.txt              # Project dependencies
 ├── cbot_backup/                      # Backup of important files
 └── README.md                         # Project documentation
+
 
 
 
