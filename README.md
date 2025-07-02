@@ -57,7 +57,7 @@ Follow the steps below to run the chatbot locally:
 ```bash
 git clone https://github.com/subhaorku/Sales_Chat-BI_bot.git
 cd Sales_Chat-BI_bot/cbot
-
+```
 ### 2 Set Up a Virtual Environment
 
 ```bash
@@ -65,11 +65,11 @@ python -m venv venv
 venv\Scripts\activate    # Windows
 # source venv/bin/activate   # Mac/Linux
 
-
+```
 ### 3 Install Dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### 4 Place the Data Files
 
 cbot/
@@ -83,7 +83,7 @@ From inside the cbot/ directory:
 streamlit run app_model_context2.py
 Then visit: http://localhost:8501
 
-
+```
 ### Example Prompts
 "Show trend for INDOMIE PULL in NORTH 1"
 
