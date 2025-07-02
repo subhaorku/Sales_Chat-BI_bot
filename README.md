@@ -80,9 +80,9 @@ cbot/
 From inside the cbot/ directory:
 ```bash
 streamlit run app_model_context2.py
-Then visit: http://localhost:8501
-
 ```
+### 6  Visit: http://localhost:8501
+
 ### Example Prompts
 "Show trend for INDOMIE PULL in NORTH 1"
 
