@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+*.env
+.env
+.DS_Store
+# Ignore large files
+sales-rt.csv
+sales_rt.parquet

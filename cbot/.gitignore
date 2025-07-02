@@ -1,0 +1,19 @@
+# Ignore Python env
+venv/
+__pycache__/
+
+# Ignore large files
+*.csv
+*.parquet
+
+# Ignore temp/logs
+*.log
+*.tmp
+*.pyo
+*.pyc
+*.pyd
+
+# Others
+.env
+.DS_Store
+
