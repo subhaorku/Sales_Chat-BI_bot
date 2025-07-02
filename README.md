@@ -70,11 +70,11 @@ venv\Scripts\activate    # Windows
 pip install -r requirements.txt
 ```
 ### 4 Place the Data Files
-
+```
 cbot/
 ├── sales_rt.csv
 └── sales_rt.parquet
-
+```
 
 ### 5 Run the Streamlit Chatbot
 From inside the cbot/ directory:
